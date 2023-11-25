@@ -2,8 +2,10 @@
 Video Link:
 
 ## Description
-User can select different weapons from different types of weapons. 
+User can select different weapons from different types of weapons. They can rotate the selected weapon. With hotspots on the selected weapon, information panels can be opened about that weapon and its parts. 
+
 Current Weapon Types:
+
 1. Assault Rifles
    
     a. Colt M4
@@ -34,3 +36,6 @@ Current Weapon Types:
 5. Snipers
 
     a. AWM
+
+## TODO
+Zoom in and out.
