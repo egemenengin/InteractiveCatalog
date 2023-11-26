@@ -1,5 +1,5 @@
 # Interactable Catalog 
-Video Link:
+[Video Link](https://youtu.be/ukZWwwSZ-HM)
 
 ## Description
 User can select different weapons from different types of weapons. They can rotate the selected weapon. With hotspots on the selected weapon, information panels can be opened about that weapon and its parts. 
